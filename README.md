@@ -3,7 +3,7 @@
 ### Description
 A python executable file that visualises and predicts stock rates using different python modules and libraries
 
-### Libraries to be imported 🧰
+### Libraries to be imported and tools used 🧰
 1. Numpy modules
 2. Pandas libraries
 3. Matplotlib to plot data 
